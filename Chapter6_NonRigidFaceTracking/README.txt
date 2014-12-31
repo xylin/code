@@ -9,6 +9,8 @@
 *   http://www.packtpub.com/cool-projects-with-opencv/book
 ******************************************************************************
 
+//Test
+
 
 ----------------------------------------------------------
 Building the project using CMake from the command-line:
